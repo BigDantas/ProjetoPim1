@@ -1,2 +1,21 @@
-# ProjetoPim1
-ProjetoPim1 Uma pequena plataforma com o intuito de oferecer aos usuários um curso de iniciação básica à lógica de programação em Python. Usando habilidades e conhecimentos adquiridos, durante o 1° semestre do curso de Análise e Desenvolvimento de Sistemas na Universidade Paulista (UNIP), usamos a ferramenta Streamlit e a linguagem de programação Python para desenvolver de forma educativa, interativa e segura uma plataforma com que usuários possam aprender conteúdos básicos de iniciação à tecnologia da informação.  Os conteúdos apresentados no curso são:  Lógica de programação Conceitos básicos de programação em Python Infraestrutura Computacional Introdução a Cibersegurança Introdução a LGPD A plataforma já citada conta com um sistema de Login de usuários, para que possam registrar senhas de acesso, salvando as informações de login e senha em um arquivo .Json e criptografando as senhas dos usuários. Conta também com um sistema de abas dividindo o conteúdo de cada tópico, insights interativos e uma prova final com pontuação para avaliar o desempenho dos usuários.  Desenvolvida pelos colaboradores:  Aldenor Dantas dos Santos - R863824 Henrique Adauto Leite - H487617 Leonardo Socreppa de Souza - R839JG7 Pedro Lukas Martins da Silva Mariz - H57JCF7 Eduardo Felix dos Santos Taino - R841FI9
+#
+ProjetoPim1 Uma pequena plataforma com o intuito de oferecer aos usuários um curso de iniciação básica à lógica de programação em Python.
+Usando habilidades e conhecimentos adquiridos, durante o 1° semestre do curso de Análise e Desenvolvimento de Sistemas na Universidade Paulista (UNIP), usamos a ferramenta Streamlit e a linguagem de programação Python para desenvolver de forma educativa, interativa e segura uma plataforma com que usuários possam aprender conteúdos básicos de iniciação à tecnologia da informação.
+
+Os conteúdos apresentados no curso são:
+ - Lógica de programação
+ - Conceitos básicos de programação em Python
+ - Infraestrutura Computacional
+ - Introdução a Cibersegurança
+ - Introdução a LGPD
+ - 
+A plataforma já citada conta com um sistema de Login de usuários, para que possam registrar senhas de acesso, salvando as informações de login e senha em um arquivo .Json e criptografando as senhas dos usuários.
+Conta também com um sistema de abas dividindo o conteúdo de cada tópico, insights interativos e uma prova final com pontuação para avaliar o desempenho dos usuários.
+
+Desenvolvida pelos colaboradores: 
+ - Aldenor Dantas dos Santos - R863824
+ - Henrique Adauto Leite - H487617
+ - Leonardo Socreppa de Souza - R839JG7
+ - Pedro Lukas Martins da Silva Mariz - H57JCF7
+ - Eduardo Felix dos Santos Taino - R841FI9
+ - Otavio Amorim Figueira - R875HB8
