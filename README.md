@@ -1,6 +1,4 @@
-
-#
-ProjetoPim1 Uma pequena plataforma com o intuito de oferecer aos usuários um curso de iniciação básica à lógica de programação em Python.
+Uma pequena plataforma com o intuito de oferecer aos usuários um curso de iniciação básica à lógica de programação em Python.
 Usando habilidades e conhecimentos adquiridos, durante o 1° semestre do curso de Análise e Desenvolvimento de Sistemas na Universidade Paulista (UNIP), usamos a ferramenta Streamlit e a linguagem de programação Python para desenvolver de forma educativa, interativa e segura uma plataforma com que usuários possam aprender conteúdos básicos de iniciação à tecnologia da informação.
 
 Os conteúdos apresentados no curso são:
